@@ -172,3 +172,10 @@ To implement the solution were used the below frameworks and tools were:
 ## Usage
 
 To test the consistency of the application's deployment and its external use, I made the application available in a free service for testing purposes.
+
+Frontend link: https://exchange-rate-front.vercel.app/
+
+Backend link:
+    Get Currencies: https://exchange-rate-backend.herokuapp.com/currencies
+    Get Exchanges:  https://exchange-rate-backend.herokuapp.com/exchanges
+    POST Exchange:  https://exchange-rate-backend.herokuapp.com/currencies
