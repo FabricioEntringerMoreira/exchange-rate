@@ -10,7 +10,7 @@
 This project implements an exchange rate system using updated real rates information for all currencies around the world.
 The service uses the EURO currency as a basis for conversion, so the user, from the system's frontend, must inform an amount and choose the currency in which the amount will be converted.
 
-Way: EUR to Currency chosen
+How it works: EUR to chosen currenty (dollar, real)
 
 To ensure up-to-date real rates, this service uses an external exchange rate expert API (https://www.exchangerate-api.com/). Furthermore, the service is prepared to be expanded to work with other sources of exchange rates.
 
