@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-<h1 align="center">Exchante Rate</h1>
+<h1 align="center">Exchange Rate</h1>
 
 
 
