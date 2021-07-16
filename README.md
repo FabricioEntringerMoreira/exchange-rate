@@ -176,6 +176,9 @@ To test the consistency of the application's deployment and its external use, I 
 Frontend link: https://exchange-rate-front.vercel.app/
 
 Backend link:
-    Get Currencies: https://exchange-rate-backend.herokuapp.com/currencies
-    Get Exchanges:  https://exchange-rate-backend.herokuapp.com/exchanges
-    POST Exchange:  https://exchange-rate-backend.herokuapp.com/currencies
+    
+   GET Currencies: https://exchange-rate-backend.herokuapp.com/currencies
+    
+   GET Exchanges:  https://exchange-rate-backend.herokuapp.com/exchanges
+    
+   POST Exchange:  https://exchange-rate-backend.herokuapp.com/currencies
