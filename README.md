@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-<h2 align="center">Simple Test</h2>
+<h1 align="center">Exchante Rate</h1>
 
 
 
