@@ -12,7 +12,7 @@
     <artifactId>exchange-rate</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>exchange-rate</name>
-    <description>A project to calc the exchange rate</description>
+         <description>A project to calc the exchange rate</description>
          <properties>
            <sonar.organization>fabricioentringermoreira</sonar.organization>
            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
@@ -22,7 +22,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
