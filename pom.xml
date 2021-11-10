@@ -13,8 +13,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>exchange-rate</name>
     <description>A project to calc the exchange rate</description>
-    <properties>
-    </properties>
+         <properties>
+           <sonar.organization>fabricioentringermoreira</sonar.organization>
+           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+         </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
